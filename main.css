@@ -21,3 +21,15 @@
 	top:130px;
 	left:310px;
 }
+
+#hangman {
+	position: absolute;
+	left: 1100px;
+	top: 400px;
+}
+
+#warning {
+	position: absolute;
+	left: 1050px;
+	top: 300px;
+}
