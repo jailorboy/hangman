@@ -28,6 +28,7 @@ for (var i =0; i < len; i++)
 $('#letterForm').submit(function() {
   letter = ($(this).serialize())[7].toLowerCase();
   checkWord(letter);
+  $("#letterForm")[0].reset();
   return false;
 });
 
