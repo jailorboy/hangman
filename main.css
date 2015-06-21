@@ -32,4 +32,13 @@
 	position: absolute;
 	left: 1050px;
 	top: 300px;
+	text-align: center;
+	margin-right: 20px;
+}
+
+#used {
+	position: absolute;
+	top: 400px;
+	left: 300px;
+	text-align: center;
 }
