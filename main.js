@@ -24,7 +24,7 @@ var used = document.getElementById('used');
 for (var i =0; i < len; i++)
 {
 	canvas.innerHTML += "_&nbsp";
-	actual.innerHTML += '*&nbsp';
+	actual.innerHTML += '&nbsp&nbsp';
 }
 
 //get the letter submitted
